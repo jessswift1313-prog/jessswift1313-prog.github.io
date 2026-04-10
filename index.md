@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Homepage"
+title: " "
 ---
 
 Hi, I'm **Sichao Jing**, a Mathematics & Economics student at Paris-Saclay University.
