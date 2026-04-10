@@ -9,3 +9,9 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Home"
+    url: /
+  - title: "Math Notes"
+    url: /math/
+  - title: "Blog"
+    url: /blog/

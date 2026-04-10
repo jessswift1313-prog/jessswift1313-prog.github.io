@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 
 ## Quant Projects
-- Stock Data Analysis (Python)
+- Stock Data Analysis (Python: Numpy, Matlabib, Pandas)
 - Backtesting Strategy
 
 ## Programming

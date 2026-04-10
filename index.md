@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Sichao Jing | Quantitative Finance"
+title: "Homepage"
 ---
 
 Hi, I'm **Sichao Jing**, a Mathematics & Economics student at Paris-Saclay University.
