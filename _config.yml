@@ -59,7 +59,7 @@ plugins:
 
 author:
   name     : "Sichao Jing"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/selfie.jpg"
   bio      : "Double Bachelor (Licence Double Diplome) in Mathematics & Economics Student at Paris-Saclay University. Aspiring Quantitative Researcher with interests in Financial Engineering, Data Science, and Applied Mathematics."
   links:
     - label: "Website"
