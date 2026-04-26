@@ -8,44 +8,27 @@ tags:
   - Computer Vision
 ---
 
-<h1>Image Analysis in C++</h1>
+# Image Analysis in C++
 
-<p>
-A C++ project focused on image processing and analysis, including basic operations
-such as thresholding, resizing, and grayscale manipulation.
-</p>
+A C++ project focused on image processing and analysis, including basic operations such as thresholding, resizing, and grayscale manipulation.
 
-<h2> Features</h2>
-<ul>
-  <li>Image loading (PPM/PGM format)</li>
-  <li>Thresholding (seuillage)</li>
-  <li>Image resizing</li>
-  <li>Basic pixel-level operations</li>
-</ul>
+## Features
 
-<h2> Example</h2>
+- Image loading (PPM/PGM format)
+- Thresholding (seuillage)
+- Image resizing
+- Basic pixel-level operations
 
-<p><b>Original Image:</b></p>
-<img src="/images/original.png" width="400">
+## Example
 
-<p><b>After Thresholding:</b></p>
-<img src="/images/threshold.png" width="400">
+**Original Image:**
 
-<h2> Project Structure</h2>
+![Original](images/original.png)
 
-<pre>
-Image-Analysis-CPP/
-│
-├── src/
-├── images/
-├── notebooks/
-└── README.md
-</pre>
+**After Thresholding:**
 
-<h2> GitHub Repository</h2>
+![Threshold](images/threshold.png)
 
-<p>
-<a href="https://github.com/jessswift1313-prog/Image-Analysis-CPP">
-View on GitHub
-</a>
-</p>
+## 🔗 GitHub Repository
+
+[View on GitHub](https://github.com/jessswift1313-prog/Image-Analysis-CPP)
