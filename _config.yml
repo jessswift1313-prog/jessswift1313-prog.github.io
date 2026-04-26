@@ -118,7 +118,7 @@ defaults:
 collections:
   projects:
     output: true
-    permalink: /projects/
+    permalink: /projects/:path/
 
 category_archive:
   type: liquid
