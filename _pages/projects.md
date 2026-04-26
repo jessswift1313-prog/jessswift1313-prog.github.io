@@ -7,13 +7,12 @@ author_profile: true
 ---
 
 {% for project in site.projects %}
-
-  <h2>
-    <a href="{{ project.url }}">{{ project.title }}</a>
-  </h2>
-
-  <p>{{ project.excerpt }}</p>
-
-  <hr>
-
+  <article class="archive__item">
+    <h2 class="archive__item-title">
+      <a href="{{ project.url }}">{{ project.title }}</a>
+    </h2>
+    <p class="archive__item-excerpt">
+      {{ project.excerpt }}
+    </p>
+  </article>
 {% endfor %}
