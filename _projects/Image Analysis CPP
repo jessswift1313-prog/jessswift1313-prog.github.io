@@ -1,7 +1,7 @@
 ---
 title: "Image Analysis in C++"
 categories:
-  - projects
+  - Projects
 tags:
   - C++
   - Image Processing
@@ -54,7 +54,7 @@ The goal is to develop a clear understanding of how classical computer vision me
 
 Input image → Processed output → Edge detection pipeline
 
-![Sample](image.png)
+![Sample](/assets/images/image.png)
 
 ## 🔗 GitHub Repository
 
