@@ -14,4 +14,4 @@ I'm interested in:
 
 I aim to build a strong foundation in applied mathematics and pursue a career in **Quantitative Research / Financial Engineering**.
 
-👉 Check my projects and notes below.
+👉 Check my projects and notes by clicking the the labels above.
