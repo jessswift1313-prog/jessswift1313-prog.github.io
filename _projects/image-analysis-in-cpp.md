@@ -1,5 +1,5 @@
 ---
-title: "Image Analysis in C++"
+title: "Image Analysis in C++ (Computer Vision)"
 excerpt: "C++ implementation of image processing and computer vision algorithms."
 last_modified_at: 2026-04-26
 categories:
@@ -9,7 +9,7 @@ tags:
   - Image Processing
   - Computer Vision
 ---
-# Image Analysis in C++ (Computer Vision)
+---
 
 A C++ implementation of fundamental image processing and analysis algorithms.  
 The project focuses on low-level image representation, convolution-based filtering, and classical computer vision techniques.
