@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-# Projects
-
 {% for project in site.projects %}
 
   <h2>
