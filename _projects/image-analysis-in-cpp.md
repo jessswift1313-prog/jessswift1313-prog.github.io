@@ -1,5 +1,5 @@
 ---
-title: "Image Analysis in C++ (Computer Vision)"
+title: "Image Analysis in C++ "
 excerpt: "C++ implementation of image processing and computer vision algorithms."
 last_modified_at: 2026-04-26
 categories:
@@ -52,7 +52,7 @@ The goal is to develop a clear understanding of how classical computer vision me
 
 Input image → Processed output → Edge detection pipeline
 
-![Sample](/assets/images/image.png)
+![Sample](assets/images/sample.png)
 
 ## 🔗 GitHub Repository
 
