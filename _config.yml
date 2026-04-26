@@ -118,7 +118,7 @@ defaults:
 collections:
   projects:
     output: true
-    permalink: /jess.github.io/projects/:path/
+    permalink: /projects/:path/
 
 category_archive:
   type: liquid
