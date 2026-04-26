@@ -15,8 +15,6 @@ tags:
 A C++ implementation of fundamental image processing and analysis algorithms.  
 The project focuses on low-level image representation, convolution-based filtering, and classical computer vision techniques.
 
----
-
 ## Overview
 
 This project implements core image processing operations from first principles in C++, with emphasis on:
