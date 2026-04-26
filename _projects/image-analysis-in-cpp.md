@@ -9,7 +9,8 @@ tags:
   - Image Processing
   - Computer Vision
 ---
----
+
+<div style="font-size: 0.9em;" markdown="1">
 
 A C++ implementation of fundamental image processing and analysis algorithms.  
 The project focuses on low-level image representation, convolution-based filtering, and classical computer vision techniques.
@@ -57,3 +58,5 @@ Input image → Processed output → Edge detection pipeline
 ## 🔗 GitHub Repository
 
 [View on GitHub](https://github.com/jessswift1313-prog/Image-Analysis-CPP)
+
+</div>
