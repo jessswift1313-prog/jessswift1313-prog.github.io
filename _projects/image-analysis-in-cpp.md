@@ -52,7 +52,7 @@ The goal is to develop a clear understanding of how classical computer vision me
 
 Input image → Processed output → Edge detection pipeline
 
-![Sample](/jess.github.io/assets/images/sample.png)
+![Sample](/assets/images/sample.png)
 
 ## 🔗 GitHub Repository
 
