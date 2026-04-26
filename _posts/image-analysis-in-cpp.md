@@ -3,7 +3,7 @@ title: "Image Analysis in C++ "
 excerpt: "C++ implementation of image processing and computer vision algorithms."
 last_modified_at: 2026-04-26
 categories:
-  - Projects
+  - projects
 tags:
   - C++
   - Image Processing
