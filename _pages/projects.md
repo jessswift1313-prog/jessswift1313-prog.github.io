@@ -8,9 +8,14 @@ author_profile: true
 
 # Projects
 
-{% raw %}
 {% for project in site.projects %}
-  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+
+  <h2>
+    <a href="{{ project.url }}">{{ project.title }}</a>
+  </h2>
+
   <p>{{ project.excerpt }}</p>
+
+  <hr>
+
 {% endfor %}
-{% endraw %}
