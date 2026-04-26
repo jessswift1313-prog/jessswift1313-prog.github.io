@@ -1,5 +1,6 @@
 ---
 title: "Image Analysis in C++"
+last_modified_at: 2026-04-26
 categories:
   - Projects
 tags:
