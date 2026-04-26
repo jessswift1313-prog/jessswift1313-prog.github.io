@@ -7,27 +7,62 @@ tags:
   - Image Processing
   - Computer Vision
 ---
+# Image Analysis in C++ (Computer Vision)
 
-# Image Analysis in C++
+A C++ implementation of fundamental image processing and analysis algorithms.  
+The project focuses on low-level image representation, convolution-based filtering, and classical computer vision techniques.
 
-A C++ project focused on image processing and analysis, including basic operations such as thresholding, resizing, and grayscale manipulation.
+The main resultat can be viewed in [Report(English Version)](REPORT_en.ipynb) or [Report(French Version)](REPORT_fr.ipynb)
+
+The documentations of some important functions can be viewed in [pgm.hpp](pgm.hpp), [ppm.hpp](ppm.hpp), [seuillage.hpp](seuillage.hpp), [sobel.hpp](Sobel.hpp), [gris-couleurs.hpp](gris-couleurs.hpp), [superpixel.hpp](superpixel.hpp)
+
+---
+
+## Overview
+
+This project implements core image processing operations from first principles in C++, with emphasis on:
+
+- Pixel-level image manipulation
+- Convolution and filtering operations
+- Gradient-based edge detection
+- Modular and extensible pipeline design
+
+The goal is to develop a clear understanding of how classical computer vision methods operate at the implementation level.
+
+---
 
 ## Features
 
-- Image loading (PPM/PGM format)
-- Thresholding (seuillage)
-- Image resizing
-- Basic pixel-level operations
+- Image loading and preprocessing pipeline
+- Linear and non-linear filtering (Gaussian, Median)
+- Edge detection via gradient operators (Sobel / similar)
+- Basic feature extraction methods
+- Structured pipeline for sequential image transformations
 
-## Example
+---
 
-**Original Image:**
+## Technical Stack
 
-![Original](images/original.png)
+- C++17
+- Standard Template Library (STL)
+- Optional: OpenCV (if applicable)
+- CMake (if applicable)
 
-**After Thresholding:**
+---
 
-![Threshold](images/threshold.png)
+## Example Results
+
+Input image → Processed output → Edge detection pipeline
+
+<div style="display: flex; gap: 10px; justify-content: space-between;">
+
+  <img src="images/Willis.512.jpg" width="32%" />
+
+  <img src="seuillage/Willis.512.png" width="32%" />
+
+  <img src="superpixel/correction/Willis.512.jpg" width="32%" />
+
+</div>
 
 ## 🔗 GitHub Repository
 
