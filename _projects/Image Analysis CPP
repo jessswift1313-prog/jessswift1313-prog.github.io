@@ -54,15 +54,7 @@ The goal is to develop a clear understanding of how classical computer vision me
 
 Input image → Processed output → Edge detection pipeline
 
-<div style="display: flex; gap: 10px; justify-content: space-between;">
-
-  <img src="images/Willis.512.jpg" width="32%" />
-
-  <img src="seuillage/Willis.512.png" width="32%" />
-
-  <img src="superpixel/correction/Willis.512.jpg" width="32%" />
-
-</div>
+![Sample](image.png)
 
 ## 🔗 GitHub Repository
 
