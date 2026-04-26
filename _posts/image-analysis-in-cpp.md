@@ -8,6 +8,7 @@ tags:
   - C++
   - Image Processing
   - Computer Vision
+permalink: /projects/image-analysis-in-cpp/
 ---
 
 <div style="font-size: 0.9em;" markdown="1">
