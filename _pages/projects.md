@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-## [Image Analysis in C++](/_projects/image-analysis-in-cpp.md/)
+## [Image Analysis in C++](/projects/image-analysis-in-cpp/)
 
 C++ implementation of image processing and computer vision algorithms.
 
